@@ -311,7 +311,7 @@
                     <div class="clearfix"></div>
                 </div><!--/page-content-->
             <div id="footer">
-              <a data-toggle="modal" data-target="#sentora-footer" style="cursor:pointer;"><img src="http://cp.alexsobiek.com/etc/styles/Modern-v2.0/img/logos/sentora_watermark.png"></a>
+              <a data-toggle="modal" data-target="#sentora-footer" style="cursor:pointer;"><img src="<# ui_tpl_assetfolderpath #>img/logos/sentora_watermark.png"></a>
              </div>
       
     </div>
